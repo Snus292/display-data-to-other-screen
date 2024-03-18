@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_nameS">NimiTeiseleEkraanile</string>
+    <string name="nameS">Sisestage oma nimi</string>
+    <string name="lastnameS">Sisestage perekonnanimi</string>
+    <string name="ageS">Sisestage oma vanus</string>
+    <string name="cityS">Sisestage elukohalinn</string>
+
+    <string name="app_name">NimiTeiseleEkraanile</string>
+    <string name="name">Sisestage oma nimi</string>
+    <string name="lastname">Sisestage perekonnanimi</string>
+    <string name="age">Sisestage oma vanus</string>
+    <string name="city">Sisestage elukohalinn</string>
+</resources>
